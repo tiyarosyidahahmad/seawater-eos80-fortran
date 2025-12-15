@@ -1,6 +1,10 @@
-# UAS Fortran – Oceanographic Algorithms (EOS-80)
+# UAS Fortran – Oceanographic Algorithms
 
-This program implements selected UNESCO EOS-80 oceanographic algorithms using Fortran.
+TThis repository contains a FORTRAN implementation of the algorithms presented in:
+
+Fofonoff, N. P., & Millard, R. C. (1983).
+Algorithms for Computation of Fundamental Properties of Seawater.
+UNESCO Technical Papers in Marine Science.
 
 ## Contents
 1. Conductivity to Salinity Conversion
